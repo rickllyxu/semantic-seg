@@ -1,2 +1,2 @@
 # semantic-seg
-pytorch code for semantic segmentation
+Here is the code of the paper HLNet: Modeling High and Low Frequencies for Scene Parsing.
